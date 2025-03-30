@@ -1,0 +1,28 @@
+
+    body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+    }
+    nav {
+        background-color: #000000;
+        padding: 10px;
+    }
+    nav a {
+        color: white;
+        text-decoration: none;
+        margin: 0 15px;
+        font-size: 18px;
+    }
+    .container {
+        margin-top: 50px;
+    }
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+    h1 {
+        font-size: 36px;
+        margin-top: 20px;
+    }
